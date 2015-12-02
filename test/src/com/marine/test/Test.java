@@ -9,4 +9,8 @@ public class Test {
 	public String getTest1(){
 		return "1";
 	}
+	
+	public int getInt1(){
+		return 1;
+	}
 }
